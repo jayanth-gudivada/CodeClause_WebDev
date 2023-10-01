@@ -1,6 +1,7 @@
 # CodeClause_WebDev
 
-# Node.js simple file upload
+# Node.js
+we have to manually install node modules
 
 ### Dependencies
 - express
